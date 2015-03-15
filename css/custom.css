@@ -1,0 +1,7 @@
+.mTop20{margin-top:20px;}
+div.error, span.error{
+	color:red;
+}
+input.error{
+	border-color: red;
+}
